@@ -1,0 +1,14 @@
+@import url('../../shared/css/Layout.css');
+@import url('../css/Steps.css');
+
+.Step1 {
+  text-align: center;
+}
+
+.Step1-header {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}

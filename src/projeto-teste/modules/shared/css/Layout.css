@@ -1,0 +1,24 @@
+.Layout-texto {
+    font-size: calc(2px + 2vmin);
+    color: #003366;
+  }
+
+  .Layout-titulo {
+    font-size: calc(10px + 2vmin);
+    color: #003366;
+  }
+
+  .Layout-sub-titulo {
+    font-size: calc(4px + 2vmin);
+    color: #003366;
+  }
+
+  .Layout-mensagem-sucesso {
+    font-size: calc(10px + 2vmin);
+    color: green;
+  }
+
+  .Layout-mensagem-erro {
+    font-size: calc(10px + 2vmin);
+    color: red;
+  }
